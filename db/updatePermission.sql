@@ -1,0 +1,1 @@
+update users set acct_permissions = 'Approved' where id = $1;
